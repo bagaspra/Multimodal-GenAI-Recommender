@@ -7,7 +7,7 @@ import pandas as pd
 from huggingface_hub import hf_hub_download
 
 # 1. Download model dari Hugging Face Models milikmu
-model_path = hf_hub_download(repo_id="username-hf-kamu/nama-model-kamu", filename="eva_stage2_heavy_text_best.pt")
+model_path = hf_hub_download(repo_id="bgaspra/eva-generative-recommender", filename="eva_stage2_heavy_text_best.pt")
 
 # 2. Load Model EVA-CLIP
 device = "cpu" # Gunakan CPU karena HF Spaces gratis tidak pakai GPU
