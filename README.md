@@ -1,13 +1,3 @@
----
-title: Multimodal GenAI Recommender
-emoji: 🎨
-colorFrom: blue
-colorTo: indigo
-sdk: gradio
-app_file: app.py
-pinned: false
----
-
 # 🎨 Multimodal Generative AI Recommender
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/bgaspra/multimodal-genai-recommender)
@@ -23,7 +13,7 @@ This project was developed as part of a Master's Thesis research, transitioning 
 ---
 
 ## 📸 Sneak Peek
-![App Screenshot](https://ibb.co/fzmwtBQ9)
+![App Screenshot](https://i.postimg.cc/s2GtDvch/UI-3.png)
 
 ---
 
