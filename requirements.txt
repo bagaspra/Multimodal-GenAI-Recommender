@@ -1,0 +1,8 @@
+torch
+open_clip_torch
+faiss-cpu
+pandas
+numpy
+gradio
+huggingface_hub
+Pillow
