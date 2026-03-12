@@ -25,7 +25,6 @@ meta_df = pd.read_csv("stage2_centroids_meta.csv")
 dataset_df = pd.read_csv("balanced_min6_max15.csv")
 
 # Buat FAISS Index
-res = faiss.StandardGpuResources() # Hapus ini jika pakai CPU
 index = faiss.IndexFlatIP(768)
 index.add(centroids)
 
